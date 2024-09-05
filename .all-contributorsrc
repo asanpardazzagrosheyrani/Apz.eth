@@ -1,0 +1,72 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "LStan",
+      "name": "Stanislav Ladyzhenskiy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10183269?v=4",
+      "profile": "https://www.linkedin.com/in/lasto",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "fareeha25",
+      "name": "fareeha25",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130544719?v=4",
+      "profile": "https://github.com/fareeha25",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kimonkekes",
+      "name": "kimonkekes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126149828?v=4",
+      "profile": "https://github.com/kimonkekes",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "WayneMorganUK",
+      "name": "Wayne Morgan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44246461?v=4",
+      "profile": "https://github.com/WayneMorganUK",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "aron-radvanyi",
+      "name": "Aron Radvanyi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108479744?v=4",
+      "profile": "http://linkedin.com/in/aronradvanyi",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "munimmetaschool",
+      "name": "munimmetaschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129931419?v=4",
+      "profile": "https://github.com/munimmetaschool",
+      "contributions": [
+        "code",
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Learning-Projects",
+  "projectOwner": "0xmetaschool"
+}
